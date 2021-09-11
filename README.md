@@ -1,6 +1,6 @@
 ### Hewwo >_< 👋
-I'm dragofox (hybrid dragon and fox) Sylvester
-I'm not cute
+- I'm dragofox (hybrid dragon and fox) Sylvester
+- I'm not cute
 
 <!--
 **SylvesterFox/SylvesterFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
