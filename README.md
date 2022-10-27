@@ -1,7 +1,6 @@
 ### Hewwo >_< 👋
 - I'm dragofox (hybrid dragon and fox) Sylvester
 - I'm not cute
-![](https://media.discordapp.net/attachments/748592015574565005/903574366833475625/what.png?width=486&height=486)
 
 <!--
 **SylvesterFox/SylvesterFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
